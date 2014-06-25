@@ -26,3 +26,6 @@ SABnzbd*.dmg
 *.keep
 *.bak
 *.log
+
+# OS X cruft
+.DS_Store
